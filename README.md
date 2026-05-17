@@ -1,3 +1,5 @@
+This repository has been migrated. For ongoing updates, please see https://github.com/thinkjs/thinkjs/tree/master/packages/think-meta.
+
 # think-meta
 [![Build Status](https://travis-ci.org/thinkjs/think-meta.svg?branch=master)](https://travis-ci.org/thinkjs/think-meta)
 [![Coverage Status](https://coveralls.io/repos/github/thinkjs/think-meta/badge.svg?branch=master)](https://coveralls.io/github/thinkjs/think-meta?branch=master)
